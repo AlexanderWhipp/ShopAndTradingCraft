@@ -6,7 +6,7 @@
   "compatibilityLevel": "JAVA_18",
   "mixins": [],
   "client": [
-    "MixinMinecraft"
+    "net.example.examplemod.mixin.MixinMinecraft"
   ],
   "server": [],
   "injectors": {
